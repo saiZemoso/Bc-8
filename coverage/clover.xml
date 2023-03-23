@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1679410907236" clover="3.2.0">
+  <project timestamp="1679410907236" name="All files">
+    <metrics statements="154" coveredstatements="151" conditionals="68" coveredconditionals="67" methods="59" coveredmethods="56" elements="281" coveredelements="274" complexity="0" loc="154" ncloc="154" packages="27" files="28" classes="28"/>
+    <package name="components.atoms.Avatar">
+      <metrics statements="7" coveredstatements="7" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\atoms\Avatar\index.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="19" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="20" count="27" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.atoms.Button">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\atoms\Button\index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="12" count="18" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.atoms.Chip">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\atoms\Chip\index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.atoms.DropDown">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\atoms\DropDown\index.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="35" count="19" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.atoms.Icon">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\atoms\Icon\index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="12" type="stmt"/>
+        <line num="10" count="103" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.atoms.Slider">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\atoms\Slider\index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.atoms.Tabs">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\atoms\Tabs\index.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+        <line num="26" count="16" type="stmt"/>
+        <line num="30" count="16" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.atoms.Typography">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\atoms\Typography\index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="29" count="13" type="stmt"/>
+        <line num="36" count="207" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.atoms.inputfield">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\atoms\inputfield\index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="22" count="10" type="cond" truecount="1" falsecount="0"/>
+        <line num="23" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.molecules.AccountDropdown">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\molecules\AccountDropdown\index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.molecules.ColumnHeader">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\molecules\ColumnHeader\index.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.molecules.CryptoCard">
+      <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\molecules\CryptoCard\index.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="23" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="39" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.molecules.Date">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\molecules\Date\index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.molecules.Dropdown-delivery">
+      <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\molecules\Dropdown-delivery\index.tsx">
+        <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="84" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.molecules.PaymentCards">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\molecules\PaymentCards\index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.molecules.ProductTracker">
+      <metrics statements="7" coveredstatements="7" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\molecules\ProductTracker\index.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="28" count="14" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="62" count="2" type="stmt"/>
+        <line num="67" count="2" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.molecules.SearchTab">
+      <metrics statements="8" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="2"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\molecules\SearchTab\index.tsx">
+        <metrics statements="8" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="2"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.molecules.TradeTab">
+      <metrics statements="9" coveredstatements="9" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\molecules\TradeTab\index.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="7" type="stmt"/>
+        <line num="26" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="7" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="83" count="1" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="96" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.molecules.card">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\molecules\card\index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.molecules.currencyType">
+      <metrics statements="2" coveredstatements="2" conditionals="14" coveredconditionals="14" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\molecules\currencyType\index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="14" coveredconditionals="14" methods="1" coveredmethods="1"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="22" count="16" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.molecules.currencyValue">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\molecules\currencyValue\index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.organisms.BuyOrSellSummary">
+      <metrics statements="32" coveredstatements="32" conditionals="13" coveredconditionals="13" methods="11" coveredmethods="11"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\organisms\BuyOrSellSummary\index.tsx">
+        <metrics statements="32" coveredstatements="32" conditionals="13" coveredconditionals="13" methods="11" coveredmethods="11"/>
+        <line num="36" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="37" count="11" type="stmt"/>
+        <line num="38" count="11" type="stmt"/>
+        <line num="47" count="11" type="stmt"/>
+        <line num="48" count="11" type="stmt"/>
+        <line num="50" count="11" type="stmt"/>
+        <line num="51" count="6" type="stmt"/>
+        <line num="52" count="6" type="stmt"/>
+        <line num="55" count="5" type="stmt"/>
+        <line num="56" count="5" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="64" count="6" type="stmt"/>
+        <line num="65" count="6" type="stmt"/>
+        <line num="68" count="5" type="stmt"/>
+        <line num="69" count="5" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="73" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="77" count="6" type="stmt"/>
+        <line num="78" count="6" type="stmt"/>
+        <line num="82" count="11" type="stmt"/>
+        <line num="83" count="5" type="stmt"/>
+        <line num="86" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="126" count="12" type="stmt"/>
+        <line num="190" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="202" count="1" type="stmt"/>
+        <line num="207" count="1" type="stmt"/>
+        <line num="212" count="1" type="stmt"/>
+        <line num="219" count="1" type="stmt"/>
+        <line num="222" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.organisms.Footer">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\organisms\Footer\index.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.organisms.Header">
+      <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\organisms\Header\index.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="5" type="stmt"/>
+        <line num="71" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.organisms.NavBar">
+      <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\components\organisms\NavBar\index.tsx">
+        <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="48" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="8" type="stmt"/>
+        <line num="42" count="8" type="stmt"/>
+        <line num="43" count="6" type="stmt"/>
+        <line num="44" count="6" type="stmt"/>
+        <line num="47" count="8" type="stmt"/>
+        <line num="50" count="48" type="stmt"/>
+        <line num="51" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="mocks">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="handler.ts" path="E:\Local-Bc8\src\mocks\handler.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="4" count="24" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+      </file>
+      <file name="server.ts" path="E:\Local-Bc8\src\mocks\server.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="24" type="stmt"/>
+      </file>
+    </package>
+    <package name="themes">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.tsx" path="E:\Local-Bc8\src\themes\index.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="91" count="16" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
