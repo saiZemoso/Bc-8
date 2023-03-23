@@ -26,8 +26,9 @@ const Avatars: FC<AvatarProps> = ({ size = "20px", ...props }) => {
         width: `${size}`,
         height: `${size}`,
       }}
-      {...props}>
-      {props.children}
+      {...props}
+    >
+      {props.children}aa
     </Avatar>
   );
 };
